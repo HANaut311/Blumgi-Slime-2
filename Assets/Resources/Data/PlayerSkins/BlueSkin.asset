@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8da4783537f90cd469910b828ab9806d, type: 3}
+  m_Name: BlueSkin
+  m_EditorClassIdentifier: 
+  ID: 1
+  Prefab: {fileID: 3014299337944665182, guid: bf816c1fc114a44499f4199fc8afbe3c, type: 3}
+  newSkin: {fileID: 3014299337944665182, guid: 154a281db3dd09c479d91ed78b661cb9, type: 3}
+  image: {fileID: -574300754, guid: 6d9ae7d27f2fa0846a4f4afa6fc3974e, type: 3}
